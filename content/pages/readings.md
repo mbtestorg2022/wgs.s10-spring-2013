@@ -72,7 +72,7 @@ Documentary: "[La Operacion](https://journeys.dartmouth.edu/sunnysingh/la-operac
 
 Tyler, Elaine. Chapters 2, and 3 in _Barren in the Promised Land: Childless Americans and the Pursuit of Happiness_. Harvard University Press, 1997, pp. 1–4. ISBN: 9780674061828. \[Preview with [Google Books](http://books.google.com/books?id=nbUSGer9xuYC&printsec=frontcover)\]
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Federal consent form for sterilization (PDF)](http://www.hhs.gov/opa/pdfs/consent-for-sterilization-english-updated.pdf)
+[Federal consent form for sterilization (PDF)](http://www.hhs.gov/opa/pdfs/consent-for-sterilization-english-updated.pdf)
 
 U.S. Department of Health and Human Services. "[Use of Contraception in the United States: 1982–2008 (PDF)](http://www.cdc.gov/nchs/data/series/sr_23/sr23_029.pdf)." Series 23, no. 29. August 2010. (Sterilization Info: Figure 7, Tables 10 & 11).
 
@@ -222,7 +222,7 @@ Solinger, Rickie. "[The First Welfare Case: Money, Sex, Marriage, and White Supr
 
 Mink, Gwendolyn. "[Violating Women: Rights Abuses in the Welfare Police State](http://www.jstor.org/discover/10.2307/1049824?uid=3739696&uid=2&uid=4&uid=3739256&sid=21102658016497)." _Annals of the American Academy of Political and Social Sciences_ 577 (2001): 79–93.
 
-Romero, Diana, and Liza Fuentes. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Welfare Cap Family Policy: Fertility Restriction as Poverty Prevention (PDF)](http://popdev.hampshire.edu/sites/default/files/uploads/u4763/DT 66 - Fuentes.pdf)." _Different Takes_ 66 (Fall 2010). PopDev Center at Hampshire College.
+Romero, Diana, and Liza Fuentes. "[The Welfare Cap Family Policy: Fertility Restriction as Poverty Prevention (PDF)](http://popdev.hampshire.edu/sites/default/files/uploads/u4763/DT 66 - Fuentes.pdf)." _Different Takes_ 66 (Fall 2010). PopDev Center at Hampshire College.
 
 Finch, Ife, and Liz Schott. "[The Value of TANF Cash Benefits Continued to Erode in 2012](http://www.cbpp.org/cms/index.cfm?fa=view&id=3943)." Center on Budget and Policy Priorities, March 28, 2013.
 
@@ -248,7 +248,7 @@ Documentary: ["When the Bough Breaks: Children of Mothers in Prison](https://www
 
 Reynolds, Tina. "Glossary of Terms." In _Interrupted Life: Experiences of Incarcerated Women in the United States_. University of California Press, 2010. ISBN: 9780520258891. (_Read this glossary first_.)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Incarcerated Women (PDF)](http://www.sentencingproject.org/doc/publications/cc_Incarcerated_Women_Factsheet_Sep24sp.pdf)." fact sheet. The Sentencing Project.
+"[Incarcerated Women (PDF)](http://www.sentencingproject.org/doc/publications/cc_Incarcerated_Women_Factsheet_Sep24sp.pdf)." fact sheet. The Sentencing Project.
 
 Young, Robin, and Jeremy Hobson. "[Dramatic Shift in U.S. Prison Populations](http://hereandnow.wbur.org/2013/03/28/women-prison-racial)." _Here and Now_ on NPR. March 28, 2013.  
 (WBUR interview with Marc Mauer of the Sentencing Project. WBUR has a link to Mauer's new report on the changing racial dynamics of women's imprisonment, if you are interested in learning more.)
@@ -325,7 +325,7 @@ Transgender Parents
 {{< tdopen >}}
 
 
-Grant, Jaime M., Lisa A. Mottet, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Injustice at Every Turn: A Report of the National Transgender Discrimination Survey (PDF)](https://www.transequality.org/sites/default/files/docs/resources/NTDS_Report.pdf)." National Gay and Lesbian Task Force.
+Grant, Jaime M., Lisa A. Mottet, et al. "[Injustice at Every Turn: A Report of the National Transgender Discrimination Survey (PDF)](https://www.transequality.org/sites/default/files/docs/resources/NTDS_Report.pdf)." National Gay and Lesbian Task Force.
 
 Ball, Carlos Ball. "[Transgender Parenthood: Gender Does Not Make a Parent](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2076455)." May 4, 2012.
 
